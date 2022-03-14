@@ -1,0 +1,14 @@
+{
+  "houses": [
+    {
+      "name": "Dhruv",
+      "ownerName": "Ambaliya",
+      "address": "Gujarat",
+      "areaCode": "Main bazar",
+      "rent": "5000",
+      "preferredTenant": "married",
+      "image": "https:googke.logo",
+      "id": 1
+    }
+  ]
+}
